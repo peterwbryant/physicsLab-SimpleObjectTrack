@@ -28,7 +28,7 @@ Two windows will open with the initial frame from the input video file.
 
     Note that additional clicks will be ignored.
 
-2. Second, in the window titled "ROI", drag a box around the object to be tracked.
+2. Second, in the window titled "ROI selector", drag a box around the object to be tracked.
 
 
 ## Best Practices
